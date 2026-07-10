@@ -1,34 +1,28 @@
 # 🚀 DevConf 2026 - Conference Landing Page
 
-A modern, responsive conference landing page built using **HTML5** and **CSS3**. This project showcases a clean and professional UI for a fictional developer conference, featuring speakers, pricing plans, conference schedule, and a responsive design.
+A modern and responsive conference landing page built using **HTML5** and **CSS3**. This project presents a clean and engaging interface for a fictional developer conference, featuring a hero banner, speaker showcase, pricing plans, conference schedule, and a responsive footer. It was developed as part of the **Programming Hero Batch 14 - Assignment 01**.
 
 ## 🌐 Live Demo
 
-🔗 https://your-username.github.io/your-repository-name/
+**Live Site:** https://nahid383.github.io/ph-batch14-assignment01/
 
----
+## 📂 Repository
 
-## 📸 Preview
-
-> Add a screenshot of your project here.
-
-```
-assets/preview.png
-```
+**GitHub Repository:** https://github.com/nahid383/ph-batch14-assignment01
 
 ---
 
 ## ✨ Features
 
 - 🎯 Modern and responsive landing page
-- 🖥️ Built with pure HTML5 & CSS3
-- 📱 Mobile-friendly layout
+- 🚀 Attractive hero banner with call-to-action
 - 🎤 Featured speakers section
 - 💰 Pricing plans
 - 📅 Conference schedule
-- 🚀 Hero banner with call-to-action
-- 🎨 Clean and minimal UI
-- ⚡ Flexbox & CSS Grid layout
+- 📱 Fully responsive layout
+- 🎨 Clean and minimal UI design
+- ⚡ Built using HTML5 and CSS3 only
+- 📦 Organized and reusable code structure
 
 ---
 
@@ -36,15 +30,26 @@ assets/preview.png
 
 - HTML5
 - CSS3
-- Flexbox
+- CSS Flexbox
 - CSS Grid
 
 ---
 
-## 📂 Project Structure
+## 📑 Sections
 
-```
-DevConf/
+- Navigation Bar
+- Hero Banner
+- Meet the Speakers
+- Pricing Plans
+- Conference Schedule
+- Footer
+
+---
+
+## 📁 Project Structure
+
+```text
+ph-batch14-assignment01
 │
 ├── assets/
 │   ├── banner.jpg
@@ -64,49 +69,59 @@ DevConf/
 
 ## 🚀 Getting Started
 
-1. Clone the repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/nahid383/ph-batch14-assignment01.git
 ```
 
-2. Open the project folder.
+### Navigate to the Project Folder
 
-3. Open `index.html` in your browser.
+```bash
+cd ph-batch14-assignment01
+```
 
----
+### Run the Project
 
-## 📖 Sections Included
-
-- Navigation Bar
-- Hero Banner
-- Meet the Speakers
-- Pricing Plans
-- Conference Schedule
-- Footer
+Open the `index.html` file in your preferred web browser.
 
 ---
 
-## 📸 Screenshots
+## 🎯 Learning Outcomes
 
-Add screenshots here.
+Through this project, I practiced:
 
-| Desktop |
-|----------|
-| ![Desktop Preview](assets/preview.png) |
-
----
-
-## 🎯 Learning Objectives
-
-This project was built to practice:
-
-- Semantic HTML
+- Semantic HTML5
 - CSS Flexbox
 - CSS Grid
 - Responsive Web Design
-- Modern UI Layout
-- Component-based page structure
+- Modern Landing Page Design
+- Clean and Maintainable Code Structure
+- UI Layout and Component Design
+
+---
+
+## 📱 Responsive Design
+
+The website is optimized for:
+
+- 💻 Desktop
+- 💼 Laptop
+- 📱 Mobile
+- 📟 Tablet
+
+---
+
+## 🔮 Future Improvements
+
+- Add JavaScript interactions
+- Event registration form
+- FAQ section
+- Testimonials
+- Countdown timer
+- Dark mode
+- Scroll animations
+- Interactive speaker profiles
 
 ---
 
@@ -118,6 +133,6 @@ This project was built to practice:
 
 ---
 
-## 📄 License
+## 📜 License
 
-This project is created for learning purposes and is free to use.
+This project was created for educational purposes as part of the **Programming Hero AI Driven Web Engineering Course (Batch 14)**. Feel free to explore, learn from, and use it as a reference for your own projects.
