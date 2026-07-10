@@ -250,3 +250,29 @@
 .pricing-ul li{
     margin-top: 5px;
 }
+
+.footer{
+    /* max-width: 1200px; */
+    width: 100%;
+    margin: 0 auto;
+    background: #0f1c2e;
+    padding: 35px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+.footer p{
+    color: #8b97a8;
+    font-size: 16px;
+    /* margin-right: 40px; */
+}
+
+.footer-links{
+    display: flex;
+    gap: 35px;
+}
+
+
+
