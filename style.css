@@ -52,3 +52,51 @@
 .cmn-btn button:hover{
     background-color: #1d4ed8;
 }
+
+.banner{
+    width: 100%;
+    height: 900px;
+    background-image: url(../assets/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.overlay{
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.45);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    flex-direction: column;
+    text-align: center;
+    /* transform:translateY(60px); */
+}
+
+.overlay h1{
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 25px;
+    transform:translateY(-200px);
+}
+
+.overlay h1 span{
+    font-style: italic;
+}
+
+.overlay p{
+    font-size: 28px;
+    color: #f3f4f6;
+    line-height: 1.7;
+    margin-bottom: 40px;
+    transform:translateY(-200px);
+}
+
